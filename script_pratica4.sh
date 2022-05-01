@@ -12,6 +12,7 @@ function keep_columns(){
 }
 
 # Function that converts first column from KiB to MB
+# could use ps -eo rss,comm --no-headers --sort -rss | head -n 5 | numfmt --to=iec --from-unit=1024 --suffix=B
 function convert_to_mb(){
   awk '{print $1,",",int($2*0.001024)}'
 }
