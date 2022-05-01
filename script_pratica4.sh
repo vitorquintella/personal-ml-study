@@ -13,12 +13,12 @@ function keep_columns(){
 
 # Function that converts first column from KiB to MB
 function convert_to_mb(){
-  awk '{print $1,",",$2*0.001024}'
+  awk '{print $1,",",int($2*0.001024)}'
 }
 
 # Function that captures top 5 memory consuming processes
 function top5memory(){
-  top -n 1 -o %MEM | head -n 12 | tail -n 5
+  top -n 1 -o RES | head -n 12 | tail -n 5
 }
 
 # Add current date and time do each line of the input file
