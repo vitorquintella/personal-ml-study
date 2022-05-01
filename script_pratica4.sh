@@ -30,5 +30,6 @@ function add_date(){
 }
 
 # Call and process top5memory function and add current date and time to each line
-# Store into memory_top5.log
 top5memory | keep_columns | convert_to_mb | add_date > memory_top5.log
+
+

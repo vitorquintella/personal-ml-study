@@ -4,12 +4,14 @@
 $url = "https://github.com/owid/covid-19-data/archive/refs/heads/master.zip
 wget $url
 
-$file1 = "covid-19-data-master/public/data/owid-covid-data.csv"
-$file2 = "covid-19-data-master/public/data/owid-covid-codebook.csv"
+$path_file1 = "covid-19-data-master/public/data/"
+$file1 = "owid-covid-data.csv"
+$path_file2 = "covid-19-data-master/public/data/"
+$file2 = "owid-covid-codebook.csv"
 
 # Unzip only the two files we need from master.zip file
-unzip -j -o master.zip $file1 -d $file1
-unzip -j -o master.zip $file2 -d $file2
+unzip -j -o master.zip $path_file1$file1 -d $file1
+unzip -j -o master.zip $path_file2$file2 -d $file2
 
 # Create a new directory for the data
 mkdir -p covid_data
