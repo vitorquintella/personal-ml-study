@@ -8,12 +8,12 @@ function current_date(){
 
 # Function that keeps only the 6th and 12th columns of the input file
 function keep_columns(){
-  awk '{print $13, $6}'
+  awk '{print $13, $7}'
 }
 
 # Function that converts first column from KiB to MB
 function convert_to_mb(){
-  awk '{print $1,sep,",",$2*0.001024}'
+  awk '{print $1,",",$2*0.001024}'
 }
 
 # Function that captures top 5 memory consuming processes
