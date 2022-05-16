@@ -1,0 +1,3 @@
+01001000	São Paulo/SP	Sé	Praça da Sé - lado ímpar
+01001001	Salvador/BA	Sér2	Praça da Sé - lado par
+21745400	Rio de Janeiro/RJ	Magalhães Bastos	Rua Ipitangas

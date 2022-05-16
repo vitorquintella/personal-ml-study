@@ -37,3 +37,16 @@ fi
 
 # Store into a file named YYYY-MM-DD.log
 top5memory | keep_columns | convert_to_mb | add_date >> $(date +%Y-%m)/$(date +%Y-%m-%d).log
+
+# Function interates over input and appends each line to the output file
+function append_to_file(){
+  while read line; do
+    echo "$line" >> $(date +%Y-%m)/$(date +%Y-%m-%d).log
+  done
+}
+# Funcation that creates directory with YYYY-MM as name on inputed path
+function create_dir(){
+  if [ ! -d "$1/$(date +%Y-%m)" ]; then
+    mkdir $1/$(date +%Y-%m)
+  fi
+}
