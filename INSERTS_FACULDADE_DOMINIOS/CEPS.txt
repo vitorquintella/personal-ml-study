@@ -1,0 +1,733 @@
+01001-010;São Paulo;SP;Sé;Praça da Sé - lado ímpar
+01218-012;São Paulo;SP;Campos Elíseos;Praça Júlio Prestes
+01402-014;São Paulo;SP;Jardim Paulista;Avenida Brigadeiro Luís Antônio, 3142
+01545-015;São Paulo;SP;Jardim da Glória;Rua Doutor Clemente Jobim
+02124-021;São Paulo;SP;Jardim Japão;Rua Nigata
+02223-022;São Paulo;SP;Jardim Brasil (Zona Norte);Travessa Jorge Folmer Daisborg
+02275-022;São Paulo;SP;Vila Germinal;Rua Léo
+02332-023;São Paulo;SP;Água Fria;Avenida Água Fria - de 794 ao fim - lado
+02410-024;São Paulo;SP;Vila Aurora (Zona Norte);Rua Ana Salete
+02537-025;São Paulo;SP;Jardim São Miguel;Rua Santa Margarida
+02723-027;São Paulo;SP;Vila Siqueira (Zona Norte);Rua Vicente Ferreira Leite
+02848-028;São Paulo;SP;Brasilândia;Rua Almotacel
+02937-029;São Paulo;SP;Vila Barreto;Rua Padre Rodrigues
+02998-029;São Paulo;SP;Conjunto City Jaraguá;Rua Domingos Soderini
+03129-031;São Paulo;SP;Vila Prudente;Rua Salvador Fernandes Lopes
+03225-032;São Paulo;SP;Jardim Independência;Rua Boliche
+03317-033;São Paulo;SP;Vila Gomes Cardim;Rua Serra de Botucatu - até 1049/1050
+03403-034;São Paulo;SP;Vila Carrão;Avenida Conselheiro Carrão - de 3051 ao 
+03525-035;São Paulo;SP;Jardim Maringá;Rua Custódio Lobo
+03608-036;São Paulo;SP;Vila São Geraldo;Rua Senador Godói
+03691-036;São Paulo;SP;Jardim Nordeste;Praça Avatinguera
+03810-038;São Paulo;SP;Jardim Belém;Rua José de Castro Mendes
+03927-039;São Paulo;SP;Conjunto Promorar Sapopemba;Passagem Bartolomeu Barbiani
+03985-039;São Paulo;SP;Jardim Ângela (Zona Leste);Rua Silvestro Silvestri
+04067-040;São Paulo;SP;Planalto Paulista;Rua Alberto Willo - até 229/230
+04141-041;São Paulo;SP;Chácara Inglesa;Rua Araré
+04208-042;São Paulo;SP;Ipiranga;Rua João Guilherme Nápoli
+04295-042;São Paulo;SP;Vila Vera;Rua Maria da Conceição Maciel de Barros
+04369-043;São Paulo;SP;Vila Santa Catarina;Travessa Luísa Nazaré
+04432-044;São Paulo;SP;Jardim Niteroi;Rua Mariana Brant
+04514-045;São Paulo;SP;Vila Uberabinha;Rua Graúna - até 219/220
+04568-045;São Paulo;SP;Brooklin Paulista;Rua Araçaíba
+04651-046;São Paulo;SP;Vila São Paulo;Rua Doutor Ubaldo Franco Caiubi
+04728-047;São Paulo;SP;Jardim Caravelas;Rua Laguna - de 839/840 ao fim
+04809-048;São Paulo;SP;Terceira Divisão de Interlagos;Rua Amaro Bernardo da Silva
+04842-048;São Paulo;SP;Jardim Castro Alves;Rua Dirce de Oliveira Santana
+04855-048;São Paulo;SP;Jardim Três Corações;Rua dos Cravos
+04888-048;São Paulo;SP;Chácara São Silvestre;Rua Lilian Baylis
+04932-049;São Paulo;SP;Parque Maria Alice;Rua Antônio de Pina
+05050-050;São Paulo;SP;Lapa;Rua Ricardo Figueiredo
+05138-051;São Paulo;SP;Jardim Líbano;Rua Dona Lazara Silveira da Silva
+05209-052;São Paulo;SP;Conjunto Habitacional Recanto dos Humild;Travessa das Adálias
+05351-053;São Paulo;SP;Cidade São Francisco;Rua Ministro Medeiros Mallet
+05424-054;São Paulo;SP;Pinheiros;Rua Butantã, 235
+05539-055;São Paulo;SP;Conjunto Residencial Butantã;Rua Paulo Ângelo Lanzarini
+05615-056;São Paulo;SP;Vila Progredior;Rua João Scaciotti
+05731-057;São Paulo;SP;Vila Ernesto;Rua Entre-Rios de Minas
+05797-057;São Paulo;SP;Jardim Ipê;Rua Honório Novais
+05866-058;São Paulo;SP;Jardim São José;Rua João Delamonica de Castro
+06028-060;Osasco;SP;Vila Campesina;Rua Deputado Emílio Carlos - até 985 - l
+06120-061;Osasco;SP;Jardim das Flores;Rua Acácia
+06170-061;Osasco;SP;Jardim Roberto;Rua Manoel Francisco Sá
+06260-062;Osasco;SP;Aliança;Rua Anna Sanches Peres
+06326-063;Carapicuíba;SP;Conjunto Habitacional Presidente Castelo;Rua Carapicuíba
+06363-063;Carapicuíba;SP;Vila Cristina;Rua Palotina
+06411-064;Barueri;SP;Vila Boa Vista;Rua Antônio Chalupe
+06455-064;Barueri;SP;Alphaville Empresarial;Avenida Juruá, 747
+06520-065;Santana de Parnaíba;SP;Portal da Serra;Rua Amparo da Serra
+06543-065;Santana de Parnaíba;SP;Tamboré;Alameda Sidney (Residencial Dois)
+06654-066;Itapevi;SP;Vila Aparecida;Rua Benedito de Abreu
+06683-066;Itapevi;SP;Vila Lucila;Rua Parati
+06705-067;Cotia;SP;Vila de São Fernando;Rua Volga
+06719-067;Cotia;SP;Morro Grande;Rua Adálias
+06763-067;Taboão da Serra;SP;Chácara Agrindus;Rua Orestes Balarini
+06803-068;Embu das Artes;SP;Tingidor;Avenida Elias Yazbek - de 629 a 2009 - l
+06824-068;Embu das Artes;SP;Jardim Ângela;Rua Ourinhos
+06852-068;Itapecerica da Serra;SP;Parque Paraíso;Avenida São Paulo
+06882-068;Itapecerica da Serra;SP;Potuverá;Estrada Manoel de Albuquerque Cintra
+07060-070;Guarulhos;SP;Vila São Ricardo;Praça Líbia
+07096-070;Guarulhos;SP;Jardim Santa Mena;Rua Ronaldo
+07134-071;Guarulhos;SP;Jardim Santa Emilia;Rua Sítio dos Macines
+07152-071;Guarulhos;SP;Parque Santos Dumont;Rua Heraldo Júnior
+07174-071;Guarulhos;SP;Residencial Parque Cumbica;Rua Valdomiro Pereira
+07194-071;Guarulhos;SP;Jardim Scyntila;Rua Haiti
+07251-072;Guarulhos;SP;Água Chata;Avenida Medeiros Neto (Vila Dinamarca)
+07402-074;Arujá;SP;Jardim Planalto;Rua Goiás
+07716-077;Caieiras;SP;Serpa;Rua Joaquim Silvério dos Reis (Jd B Vist
+07786-077;Cajamar;SP;Altos de Jordanésia (Jordanésia);Rua Adamantina (Vl Abrão)
+07846-078;Franco da Rocha;SP;Vila Bela;Rua Bulgária
+07916-079;Francisco Morato;SP;Jardim Santo Antônio;Rua Mário Palmério
+08021-080;São Paulo;SP;Vila Rosaria;Travessa Leda
+08070-080;São Paulo;SP;Parque Cruzeiro do Sul;Rua Líbero Ancona Lopes
+08140-081;São Paulo;SP;Jardim Tuã;Travessa Marco Beltrame
+08215-082;São Paulo;SP;Itaquera;Rua Tobias Lellio
+08255-082;São Paulo;SP;Conjunto Residencial José Bonifácio;Rua Ernesto Belandi
+08330-083;São Paulo;SP;Cidade Satélite Santa Bárbara;Rua Vicente Lopes
+08391-083;São Paulo;SP;Parque das Flores;Rua dos Eucalíptos
+08451-084;São Paulo;SP;Lajeado;Rua Teixeira Cid
+08490-084;São Paulo;SP;Vila Hortência;Rua Barão Ribeiro de Traipu
+08541-085;Ferraz de Vasconcelos;SP;Jardim Mercedes;Rua Mário Bastos
+08568-085;Poá;SP;Jardim Nova Poá;Rua João Geraldo Gatti
+08583-085;Itaquaquecetuba;SP;Rio Abaixo;Estrada Santa Gertrudes
+08597-085;Itaquaquecetuba;SP;Vila Celeste;Rua Ilha Bela
+08635-086;Suzano;SP;Recreio Rio Bonito;Rua Campestre
+08690-086;Suzano;SP;Cidade Miguel Badra;Estrada do Preju
+08727-087;Mogi das Cruzes;SP;Cidade Jardim;Rua Miguel Trandafilov
+08761-087;Mogi das Cruzes;SP;Jardim Aeroporto III;Rua Gabriel D'Anunzio
+08790-087;Mogi das Cruzes;SP;Vila Oliveira;Rua Joaquim Martins Coelho
+09061-090;Santo André;SP;Vila Palmares;Travessa Las Palmas
+09132-091;Santo André;SP;Jardim Santo André;Rua Canossa
+09185-091;Santo André;SP;Jardim Jamaica;Rua Ernesto Nazareth
+09272-092;Santo André;SP;Tamanduateí 8;Rua Ferrari (NH Capuava)
+09330-093;Mauá;SP;Jardim Cruzeiro;Rua Grande Otelo
+09380-093;Mauá;SP;Capuava;Avenida Manoel da Nóbrega
+09420-094;Ribeirão Pires;SP;Centro Alto;Rua Ângelo Del Santo
+09550-095;São Caetano do Sul;SP;Barcelona;Travessa Luís André Braido
+09715-097;São Bernardo do Campo;SP;Centro;Rua Primo Modolin
+09782-097;São Bernardo do Campo;SP;Montanhão;Rua Mário Depolli (Jd Tiradentes)
+09831-098;São Bernardo do Campo;SP;Rio Grande;Rua Jaciara (Pq Rio Grande)
+09853-098;São Bernardo do Campo;SP;Alvarenga;Rua Antônio Di Favari
+09920-099;Diadema;SP;Centro;Rua Alzira
+09960-099;Diadema;SP;Casa Grande;Rua Francisco Manoel da Silva (Jd Arco-Í
+11013-110;Santos;SP;Centro;Rua Amador Bueno - de 239 ao fim - lado 
+11080-110;Santos;SP;Vila Progresso;Rua Cinco (Vila Vitória)
+11335-113;São Vicente;SP;Planalto Bela Vista;Rua Hipólito José da Costa
+11420-114;Guarujá;SP;Vila Luis Antônio;Rua Neptuno
+11445-114;Guarujá;SP;Jardim Acapulco;Rua Antônio Gomes Meneses
+11497-114;Guarujá;SP;Jardim Brasil II;Rua Poeta Gonçalves Dias
+11609-116;São Sebastião;SP;Vila Amélia;Avenida Guarda-Mor Lobo Viana
+11700-117;Praia Grande;SP;Canto do Forte;Rua Heitor Sanches
+11713-117;Praia Grande;SP;Samambaia;Rua José Cardoso
+12031-120;Taubaté;SP;Jardim Independência;Rua Antônio Faria Vieira
+12054-120;Taubaté;SP;Condomínio Residencial Tecoara;Rua Sete
+12090-120;Taubaté;SP;Monte Belo;Rua Luiz Guimarães
+12213-122;São José dos Campos;SP;Vila Paiva;Rua Antônio Pedro Perotti
+12302-123;Jacareí;SP;Rio Comprido;Viela Barra Mansa
+12318-123;Jacareí;SP;Jardim Maria Amélia;Rua Eunice Theodoro da Silva
+12329-123;Jacareí;SP;Jardim Pedra Mar;Estrada dos Remédios - até 414/415
+12412-124;Pindamonhangaba;SP;Bela Vista;Rua Estados Unidos
+12442-124;Pindamonhangaba;SP;Residencial Comercial Cidade Vista Alegr;Rua Teruaki Watanabe
+12511-125;Guaratinguetá;SP;Pedregulho;Rua Carijós
+12600-126;Lorena;SP;Centro;Vila Rosa
+12704-127;Cruzeiro;SP;Vila Pontilhão;Viela José Paulino
+12904-129;Bragança Paulista;SP;Vila Santa Libânia;Rua Bocaina
+12918-129;Bragança Paulista;SP;Condomínio Terras de Santa Cruz;Rua das Pitangueiras
+12951-129;Atibaia;SP;Caetetuba;Avenida Professor Flávio Pires de Camarg
+13023-130;Campinas;SP;DAE;Rua Carlos Francheu
+13070-130;Campinas;SP;Jardim Quarto Centenário;Rua Reinaldo Laubenstein - de 533/534 ao
+13157-131;Cosmópolis;SP;Chácara Santo Antônio;Rua Aires - até 99998 - lado par
+13227-132;Várzea Paulista;SP;Jardim Brasil;Rua José Zaffani
+13295-132;Itupeva;SP;Sem Bairro;Sem Logradouro
+13380-133;Nova Odessa;SP;Jardim Europa;Avenida Ampélio Gazzetta - de 2592 a 329
+13432-134;Piracicaba;SP;Residencial Terras de Ártemis (Ártemis);Rua Claudia Cristina Dini (Cond Res T Ár
+13477-134;Americana;SP;Campo Limpo;Rua Orlando Dei Santi - até 1232 - lado 
+13573-135;São Carlos;SP;Jardim Social Presidente Collor;Rua Joaquim Appel
+13635-136;Pirassununga;SP;Jardim Elite;Rua Rosa Devitte Gruninger
+13903-139;Amparo;SP;Jardim Bela Vista;Rua Albino Piffer
+14021-140;Ribeirão Preto;SP;Jardim Botânico;Condomínio Village Monet
+14050-140;Ribeirão Preto;SP;Vila Tibério;Travessa do Cânhamo
+14062-140;Ribeirão Preto;SP;Jardim Heitor Rigon;Rua Rosalina da Cunha Fontanezi
+14079-140;Ribeirão Preto;SP;Jardim Florestan Fernandes;Rua Capitão Matheus José dos Reis - até 
+14166-141;Sertãozinho;SP;Jardim Helena;Rua José Ferrante
+14403-144;Franca;SP;São José;Rua Voluntários da Franca - de 2201/2202
+14708-147;Bebedouro;SP;Residencial Moriá;Rua Pedro Sanchez Legal
+14810-148;Araraquara;SP;Jardim Floridiana (Vila Xavier);Avenida José de Alencar - de 550/551 a 1
+14876-148;Jaboticabal;SP;Solar Corinthiano;Avenida Calixto Honório Cardoso
+15020-150;São José do Rio Preto;SP;Santos Dumont;Rua Ipiranga - de 2879/2880 ao fim
+15063-150;São José do Rio Preto;SP;Residencial Gaivota I;Rua Maria de Lourdes Piacenti
+15086-150;São José do Rio Preto;SP;Residencial Vista Alegre II e III (Zona ;Rua Pintassilgos
+15700-157;Jales;SP;Conjunto Habitacional Roque Viola;Rua Cauã - de 1754/1755 ao fim
+15997-159;Matão;SP;Alto;Avenida Vinte e Oito de Agosto - de 1401
+16023-160;Araçatuba;SP;Conjunto Habitacional José Saran;Rua Celestino Blaya Mendes
+16072-160;Araçatuba;SP;Planalto;Rua Montese - de 599/600 a 1483/1484
+16901-169;Andradina;SP;Parque Urubupungá;Rua Kaiti Takebe
+17018-170;Bauru;SP;Vila Aviação;Rua Aviador Marques de Pinedo - de Quadr
+17056-170;Bauru;SP;Vila São João do Ipiranga;Rua Rodolfina Dias Domingues
+17203-172;Jaú;SP;Vila Nova;Praça Ângelo Grizzo
+17212-172;Jaú;SP;Jardim Rosa Branca;Rua Romano Matiello
+17507-175;Marília;SP;Santa Tereza;Avenida Sanches Cibantos
+17530-175;Marília;SP;Centro (Amadeu Amaral);Rua Luiz Miranda
+17606-176;Tupã;SP;Parque das Nações;Rua Canadá - de 692/693 ao fim
+18020-180;Sorocaba;SP;Vila Colorau;Rua Augusto Rodrigues dos Santos
+18060-180;Sorocaba;SP;Vila Carvalho;Rua Major João Elias
+18087-180;Sorocaba;SP;Jardim Residencial Villa Amato;Rua Ademir Fernandes
+18132-181;São Roque;SP;Jardim Guaçu;Rua Gil Tavares
+18145-181;São Roque;SP;Pavão (Canguera);Rua Glória Duarte
+18210-182;Itapetininga;SP;Vila Salém;Rua Genichi Yabiku
+18302-183;Capão Bonito;SP;Vila São Paulo;Rua Sete Barras
+18407-184;Itapeva;SP;Jardim Maringá III;Rua Francisca Silvana Camargo
+18618-186;Botucatu;SP;Parque Bela Vista (Rubião Junior);Rua Cadete do Ar
+18686-186;Lençóis Paulista;SP;Chácaras Santo Antônio;Rua São Matheus
+19026-190;Presidente Prudente;SP;Residencial Portinari;Avenida José Renovatto da Costa
+19044-190;Presidente Prudente;SP;Jardim Vista Bonita;Rua Vinte e nove
+19064-190;Presidente Prudente;SP;Jardim Novo Prudentino;Avenida Antônio Manoel Nogueira
+19803-198;Assis;SP;Nova Assis;Rua Renato Luciano Gomes Tangerino
+19901-199;Ourinhos;SP;Residencial Parque das Flores;Rua Ivo Campiom
+19914-199;Ourinhos;SP;Jardim Europa;Rua João Barrile
+20221-202;Rio de Janeiro;RJ;Santo Cristo;Rua do Livramento, 203
+20531-205;Rio de Janeiro;RJ;Alto da Boa Vista;Praça Afonso Viseu
+20760-207;Rio de Janeiro;RJ;Del Castilho;Beco da Paz
+20932-209;Rio de Janeiro;RJ;Caju;Beco Octacilio Scott
+21012-210;Rio de Janeiro;RJ;Braz de Pina;Rua Cinquenta e Dois
+21051-210;Rio de Janeiro;RJ;Higienópolis;Rua Tamiarana
+21230-212;Rio de Janeiro;RJ;Vista Alegre;Rua Seis
+21350-213;Rio de Janeiro;RJ;Engenheiro Leal;Rua Francisco Vale - até 34 - lado par
+21521-215;Rio de Janeiro;RJ;Pavuna;Praça Alencastro Guimarães
+21635-216;Rio de Janeiro;RJ;Parque Anchieta;Rua Lisses Melgaço
+21725-217;Rio de Janeiro;RJ;Realengo;Rua Nilópolis - de 587/588 ao fim
+21810-218;Rio de Janeiro;RJ;Bangu;Rua Alceri Maria da Silva
+21844-218;Rio de Janeiro;RJ;Senador Camará;Rua da Manga
+21910-219;Rio de Janeiro;RJ;Tauá;Avenida Paranapuam - de 1212 a 1992 - la
+21941-219;Rio de Janeiro;RJ;Jardim Guanabara;Rua Olímpia
+22451-224;Rio de Janeiro;RJ;Rocinha;Travessa Galiléia
+22713-227;Rio de Janeiro;RJ;Jacarepaguá;Rua Azaléias do Outeiro
+22750-227;Rio de Janeiro;RJ;Anil;Rua São Platão
+22775-227;Rio de Janeiro;RJ;Cidade de Deus;Rua Aquilino Ribeiro
+22795-227;Rio de Janeiro;RJ;Recreio dos Bandeirantes;Rua Piauí
+23027-230;Rio de Janeiro;RJ;Guaratiba;Travessa Barros Alarção
+23042-230;Rio de Janeiro;RJ;Campo Grande;Caminho Verde
+23062-230;Rio de Janeiro;RJ;Inhoaíba;Rua Manuel dos Reis
+23076-230;Rio de Janeiro;RJ;Campo Grande;Rua Adão Henrique de Morais
+23095-230;Rio de Janeiro;RJ;Campo Grande;Rua Repórter Cinematográfico Santiago Il
+23535-235;Rio de Janeiro;RJ;Sepetiba;Alameda dos Oitis
+23565-235;Rio de Janeiro;RJ;Santa Cruz;Rua Aguanil, 531
+23595-235;Rio de Janeiro;RJ;Paciência;Beco do Ferreira
+23826-238;Itaguaí;RJ;Leandro;Rua Manoel Lourenço Martins
+23898-238;Seropédica;RJ;Campo Lindo;Rua Sebastião Alves Pereira
+23935-239;Angra dos Reis;RJ;Parque Belém (Cunhambebe);Rua da Glória
+24050-240;Niterói;RJ;Ilha da Conceição;Rua B
+24220-242;Niterói;RJ;Icaraí;Travessa Capitão Zeferino
+24344-243;Niterói;RJ;Engenho do Mato;Rua Quarenta e Sete (Lot Jd Fazendinha)
+24415-244;São Gonçalo;RJ;Barro Vermelho;Travessa Celestino Pires
+24435-244;São Gonçalo;RJ;Patronato;Travessa Pereira Duarte
+24461-244;São Gonçalo;RJ;Mutuá;Rua Olinto Moreira
+24476-244;São Gonçalo;RJ;Itaúna;Rua Reginaldo Ulisses de Oliveira
+24726-247;São Gonçalo;RJ;Bom Retiro;Rua Resende da Costa (Lot Jd Bom Retiro)
+24740-247;São Gonçalo;RJ;Coelho;Rua Bernardo da Costa
+24754-247;São Gonçalo;RJ;Maria Paula;Travessa Julia Caneca
+24809-248;Itaboraí;RJ;Bela Vista;Rua V - de Quadra 4 a Quadra 7
+24856-248;Itaboraí;RJ;Santo Antônio (Manilha);Avenida Três
+24900-249;Maricá;RJ;Centro;Rua Antônio Francisco Antunes
+24916-249;Maricá;RJ;Guaratiba (Ponta Negra);Rua Três (Jd Guaratiba B)
+24942-249;Maricá;RJ;Inoã (Inoã);Travessa Amapá
+25041-250;Duque de Caxias;RJ;Vila Rosário;Rua Gabriel Danúzio
+25080-250;Duque de Caxias;RJ;Parque Felicidade;Rua Paraná
+25225-252;Duque de Caxias;RJ;Campos Elíseos;Rua Inhambupe
+25250-252;Duque de Caxias;RJ;Xerém;Rua Adelaide Maria de Jesus
+25271-252;Duque de Caxias;RJ;Jardim Imbariê;Rua Projetada Um
+25535-255;São João de Meriti;RJ;Éden;Rua Antunes
+25575-255;São João de Meriti;RJ;Jardim Olavo Bilac;Rua Visconde de Morais
+25640-256;Petrópolis;RJ;Castelanea;Praça Fleming
+25685-256;Petrópolis;RJ;Centro;Rua Doutor Moreira da Fonseca
+25745-257;Petrópolis;RJ;Itaipava;Estrada da Divisa
+25820-258;Três Rios;RJ;Triângulo;Travessa Kopke
+25908-259;Magé;RJ;Jardim Santo Antônio;Rua Quarenta e Sete
+25926-259;Magé;RJ;Praia da Esperança (Guia de Pacobaíba);Rua Cinco
+25937-259;Magé;RJ;Novo Horizonte (Vila Inhomirim);Rua Três
+25965-259;Teresópolis;RJ;Barra do Imbuí;Travessa Manuel Teixeira da Cunha
+26010-260;Nova Iguaçu;RJ;Vila Sueli;Rua Waldette Chamon do Carmo Lima - até 
+26032-260;Nova Iguaçu;RJ;Ponto Chic;Rua General Zenóbio da Costa
+26053-260;Nova Iguaçu;RJ;Parque Alvorada;Rua Nove
+26082-260;Nova Iguaçu;RJ;Cacuia;Beco A
+26112-261;Belford Roxo;RJ;Centro;Avenida Retiro da Imprensa - lado ímpar
+26140-261;Belford Roxo;RJ;Heliópolis;Rua Projetada Dois
+26173-261;Belford Roxo;RJ;Maringá;Travessa Jaboatão
+26195-261;Belford Roxo;RJ;Glaucia;Rua Voltaire
+26275-262;Nova Iguaçu;RJ;Ouro Verde;Rua Teresina
+26315-263;Queimados;RJ;Piabas;Rua Primor
+26382-263;Queimados;RJ;Luiz de Camões;Rua Nelson Barra
+26453-264;Japeri;RJ;Planetário;Rua Mem de Sá
+26525-265;Nilópolis;RJ;Centro;Rua Manuel Luís Pereira
+26572-265;Mesquita;RJ;Vila Norma;Rua Shimano
+27140-271;Barra do Piraí;RJ;Muqueca;Travessa José Pinto Mesquita
+27253-272;Volta Redonda;RJ;Centro;Avenida Getúlio Vargas
+27275-272;Volta Redonda;RJ;Retiro;Rua Armando Bessada
+27321-273;Barra Mansa;RJ;Vila Nova;Rua Francisco Gomes
+27347-273;Barra Mansa;RJ;Cotiara;Rua Padre Ernesto Zaramella
+27523-275;Resende;RJ;Morada da Colina;Rua Quatro
+27915-279;Macaé;RJ;Alto Cajueiros;Rua Carlito Cruz
+27946-279;Macaé;RJ;Botafogo;Rua Adélia de Póvoa
+27966-279;Macaé;RJ;Lagomar;Vila Chileno
+28020-280;Campos dos Goytacazes;RJ;Parque Jóquei Club;Estrada do Goiabal
+28060-280;Campos dos Goytacazes;RJ;Parque Santa Helena;Rua Dacio Ramos
+28605-286;Nova Friburgo;RJ;Amparo;Praça Pedro Baptista
+28630-286;Nova Friburgo;RJ;São Geraldo;Rua Manoel Augusto dos Reis
+28911-289;Cabo Frio;RJ;Jardim Olinda;Rua Amazonas
+29025-290;Vitória;ES;Caratoíra;Escadaria Waldomiro Rodrigues
+29050-290;Vitória;ES;Enseada do Suá;Rua Sérgio Mendonça Furtado - lado ímpar
+29070-290;Vitória;ES;Maria Ortiz;Rua Lídia Rocha Feitosa
+29182-291;Serra;ES;Parque Residencial Nova Almeida;Rua A
+29213-292;Guarapari;ES;São Gabriel;Rua Belo Horizonte
+29299-292;Prosperidade (Vargem Alta);ES;Centro;Estrada Principal, s/n
+29930-299;São Mateus;ES;Sernamby;Rua Vitória
+29942-299;São Mateus;ES;Vitória;Avenida João Batista Crespo
+30160-301;Belo Horizonte;MG;Centro;Rua Espírito Santo, 500
+30285-302;Belo Horizonte;MG;Vera Cruz;Rua Caravelas
+30360-303;Belo Horizonte;MG;Santa Lúcia;Rua Ísis
+30451-304;Belo Horizonte;MG;Leonina;Beco São José
+30550-305;Belo Horizonte;MG;Salgado Filho;Rua Lourenço Marques
+30628-306;Belo Horizonte;MG;Solar do Barreiro (Barreiro);Rua Antônio Eustáquio Pinheiro
+30670-306;Belo Horizonte;MG;Águas Claras (Barreiro);Rua Um Mil Trezentos e Oitenta e Sete
+30830-308;Belo Horizonte;MG;Glória;Avenida Abílio Machado - de 901 a 1629 -
+31035-310;Belo Horizonte;MG;Horto Florestal;Rua Engenheiro Odilon Fernandes
+31210-312;Belo Horizonte;MG;Senhor dos Passos;Rua Cinábrio
+31340-313;Belo Horizonte;MG;Paquetá;Rua Glauber Rocha
+31550-315;Belo Horizonte;MG;Copacabana;Rua Hildebrando de Oliveira - até 540/54
+31652-316;Belo Horizonte;MG;Jardim dos Comerciários (Venda Nova);Rua Lúcio Xavier de Oliveira
+31744-317;Belo Horizonte;MG;Madri;Rua D
+31910-319;Belo Horizonte;MG;São Paulo;Rua Arauá
+31998-319;Belo Horizonte;MG;Conjunto Paulo VI;Rua AM
+32046-320;Contagem;MG;Chácara São Geraldo;Alameda dos Pinheiros
+32113-321;Contagem;MG;Arvoredo;Rua Paulo Pagani
+32187-321;Contagem;MG;Parque Xangri-Lá;Rua Campos
+32310-323;Contagem;MG;Eldorado;Rua Riso do Prado
+32405-324;Ibirité;MG;São João;Rua Quatro
+32425-324;Ibirité;MG;Vila Ideal (Parque Durval de Barros);Rua União
+32606-326;Betim;MG;Novo Horizonte;Rua Cezário Parreiras - de 300/301 ao fi
+32641-326;Betim;MG;Citrolândia;Rua Jasmim
+32676-326;Betim;MG;Amarante;Avenida Juiz Marco Túlio Isaac - de 7841
+33035-330;Santa Luzia;MG;Boa Esperança;Rua G
+33140-331;Santa Luzia;MG;Conjunto Palmital (São Benedito);Rua Juiz Geraldo Cardoso Menezes
+33822-338;Ribeirão das Neves;MG;Franciscadriângela;Rodovia BR-040 - do km 507,502 ao km 509
+33880-338;Ribeirão das Neves;MG;Santa Marta;Rua Ciro Borsa
+33933-339;Ribeirão das Neves;MG;Urca (Justinópolis);Beco Pau Pereira
+34012-340;Nova Lima;MG;Honório Bicalho;Rua F
+34580-345;Sabará;MG;Vila Rica;Rua Sergipe
+35030-350;Governador Valadares;MG;São Paulo;Rua Hildebrando Cabral
+35050-350;Governador Valadares;MG;Sagrada Família;Rua José Veríssimo
+35060-350;Governador Valadares;MG;Carapina;Rua Ipiranga
+35182-351;Timóteo;MG;Primavera;Rua Dracema
+35303-353;Caratinga;MG;Loteamento Tãozinho Vilela;Rua Alice Manacés Muniz
+35583-355;Vila Costina (Pains);MG;Sem Bairro;Sem Logradouro
+36030-360;Juiz de Fora;MG;Cruzeiro do Sul;Rua Joaquim Vicente Guedes - até 804/805
+36046-360;Juiz de Fora;MG;Quintas das Avenidas;Rua Doutor Geraldo Mostaro
+36072-360;Juiz de Fora;MG;Barão do Retiro;Rua Elias Jacob
+36092-360;Juiz de Fora;MG;Benfica;Rua Manuel de Jesus Rodrigues (Res M Mar
+36576-365;Viçosa;MG;Santo Antônio;Rua Professora Maria Lucas
+36776-367;Aracati de Minas (Cataguases);MG;Sem Bairro;Sem Logradouro
+37022-370;Varginha;MG;Parque Ileana;Rua São Martinho
+37062-370;Varginha;MG;Rezende;Rua Dona Antônia Resende
+37561-375;Pouso Alegre;MG;Residencial Monte Carlo;Rua Geraldo Martins Riera
+38022-380;Uberaba;MG;Bom Retiro;Rua Jair José Duarte
+38041-380;Uberaba;MG;Jardim Maracanã;Rua José Rosano
+38055-380;Uberaba;MG;Conjunto Pontal;Rua das Perdizes
+38071-380;Uberaba;MG;Jardim Maria Alice;Rua Elvira Luiza Wenceslau
+38400-384;Uberlândia;MG;Tabajaras;Avenida Getúlio Vargas - de 751 a 2299 -
+38745-387;Patrocínio;MG;Nações;Rua Itália - até 2111/2112
+39445-394;Janaúba;MG;São Gonçalo;Rua dos Bandeirantes
+39917-399;Bandeira;MG;Sem Bairro;Sem Logradouro
+40157-401;Salvador;BA;Chame-Chame;Rua Comendador Francisco Pedreira
+40243-402;Salvador;BA;Engenho Velho de Brotas;Rua Joana Soalheira
+40285-402;Salvador;BA;Brotas;Rua Doutor Renato Mendonça
+40318-403;Salvador;BA;Cidade Nova;Rua Doze de Janeiro
+40335-403;Salvador;BA;Pero Vaz;2ª Travessa Meireles
+40365-403;Salvador;BA;Curuzu;Avenida Cid
+40393-403;Salvador;BA;Capelinha;Vila Maria Auxiliadora
+40444-404;Salvador;BA;Roma;Travessa Elói Chaves
+40490-404;Salvador;BA;São João do Cabrito;Rua Interlagos
+40720-407;Salvador;BA;Periperi;Rua Engenheiro Agenor de Freitas de Peri
+40760-407;Salvador;BA;Coutos;Travessa Israel
+41120-411;Salvador;BA;Pernambués;Travessa Ezequiel
+41200-412;Salvador;BA;Engomadeira;4ª Avenida São Francisco
+41230-412;Salvador;BA;Granjas Rurais Presidente Vargas;Travessa Omã (Lot Gjas R P Vargas)
+41270-412;Salvador;BA;Campinas de Pirajá;Rua Régis Pacheco
+41301-413;Salvador;BA;Valéria;Avenida Ruth Fernandes (Lot Jd T Nova)
+41315-413;Salvador;BA;Dom Avelar;Rua dos Cursilhistas
+41339-413;Salvador;BA;Cajazeiras;Caminho 13-Quadra C (Faz Grande I)
+41350-413;Salvador;BA;Nova Brasília;Rua Maringá
+41480-414;Salvador;BA;Mussurunga II;Rua Desembargador Wilde de Lima
+41510-415;Salvador;BA;São Cristóvão;Travessa Adutora
+41613-416;Salvador;BA;Jaguaribe;Rua Jorge Santos Pereira
+41740-417;Salvador;BA;Pituaçu;Rua Nadir Mendonça
+41905-419;Salvador;BA;Nordeste;Rua Horácio Farias (V Pedrinhas)
+42706-427;Lauro de Freitas;BA;Ipitanga;Rua Joaquim de Carvalho Campos
+42738-427;Lauro de Freitas;BA;Itinga;Rua José Mauro G de Oliveira
+43805-438;Candeias;BA;Centro;Rua Nossa Senhora das Candeias
+44030-440;Feira de Santana;BA;Gabriela;Rua Luiz Sevilha
+44065-440;Feira de Santana;BA;Conceição;Rua Paris França
+44088-440;Feira de Santana;BA;Brasília;Rua São Francisco
+44097-440;Feira de Santana;BA;Limoeiro;Rua Manoel Lúcio Lopes
+45003-450;Vitória da Conquista;BA;Cruzeiro;Rua Otília dos Anjos
+45028-450;Vitória da Conquista;BA;Candeias;Travessa Arthur Seixas
+45061-450;Vitória da Conquista;BA;Campinhos;Rua A (Lot M Acácias)
+45085-450;Vitória da Conquista;BA;Nossa Senhora Aparecida;Avenida Presidente Dutra
+45613-456;Itabuna;BA;Nova Esperança;Rua do Presídio
+45987-459;Teixeira de Freitas;BA;Recanto do Lago;Rua Senador Antônio Fernandes
+45992-459;Teixeira de Freitas;BA;Kaikan Sul;Rua Aracatu
+47810-478;Barreiras;BA;Morada Nobre;Rua Capim Grosso
+48300-483;Conde;BA;Centro;Rua Dois de Julho, 112
+48610-486;Paulo Afonso;BA;Cardeal Brandão Vilela;Rua Sagrada Família
+49001-490;Aracaju;SE;Zona de Expansão (Aruana);Rua Dezoito (Cj Costa Nova I)
+49031-490;Aracaju;SE;Farolândia;Travessa Maria de Lia
+49044-490;Aracaju;SE;Santa Maria;Travessa Vinte e Sete (Cj Pe Pedro)
+49069-490;Aracaju;SE;Porto D'Antas;Travessa São Jorge
+49089-490;Aracaju;SE;Soledade;Rua I (Lot Mte Belo)
+49503-495;Itabaiana;SE;Serrano;Rua Marcelino Ribeiro Bispo
+50040-500;Recife;PE;Santo Amaro;Rua Doutor João Vieira de Menezes
+50620-506;Recife;PE;Torre;Rua Aroazes
+50730-507;Recife;PE;Engenho do Meio;Rua Antônio Borges Uchôa
+50780-507;Recife;PE;Barro;Rua Laurindo Leão
+50900-509;Recife;PE;Barro;Rua Severino Meira
+51020-510;Recife;PE;Boa Viagem;Rua dos Navegantes - de 1203/1204 a 1853
+51230-512;Recife;PE;Ibura;Rua Engenho Bulhões
+51330-513;Recife;PE;COHAB;Rua Guriú
+52040-520;Recife;PE;Campo Grande;Rua Tunas
+52081-520;Recife;PE;Vasco da Gama;Rua Manacá
+52120-521;Recife;PE;Fundão;Rua Manoel Silva - lado ímpar
+52190-521;Recife;PE;Nova Descoberta;Rua Fervedouro
+52390-523;Recife;PE;Passarinho;Rua Carlos Vanildo Pires
+53110-531;Olinda;PE;Salgadinho;Rua Doutor Arnaldo Machado
+53210-532;Olinda;PE;Caixa D'Água;Rua Jorge de Sá
+53320-533;Olinda;PE;Bultrins;Rua Hexágono
+53421-534;Paulista;PE;Maranguape II;Rua Quarenta e Nove
+53437-534;Paulista;PE;Janga;Rua Luís Martins de Souza
+53550-535;Abreu e Lima;PE;Planalto;Rua Arsênio
+53615-536;Igarassu;PE;Sítio dos Marcos;Rua Alvarenga (Lot Independência)
+53645-536;Igarassu;PE;Monjope;Rua Ibimirim (Lot A Magalhães II)
+54120-541;Jaboatão dos Guararapes;PE;Santo Aleixo;Rua Rio Manicoré
+54220-542;Jaboatão dos Guararapes;PE;Curado;3ª Travessa do Progresso (Cj. Res. Curad
+54280-542;Jaboatão dos Guararapes;PE;Dois Carneiros;Rua Uruguai (Lot Grande Recife) - até 99
+54325-543;Jaboatão dos Guararapes;PE;Guararapes;1ª Travessa São Luís
+54350-543;Jaboatão dos Guararapes;PE;Muribeca;Rua Onze (VI Brasil Novo)
+54420-544;Jaboatão dos Guararapes;PE;Piedade;Rua Comendador Sá Barreto - de 1/2 ao fi
+54495-544;Jaboatão dos Guararapes;PE;Barra de Jangada;Rua Mexerica
+54535-545;Cabo de Santo Agostinho;PE;Vila Teatrólogo Barreto Júnior;Rua Treze (Charneca)
+54720-547;São Lourenço da Mata;PE;Parque Capibaribe;Rua Arnaldo Rodrigues Chaves
+54753-547;Camaragibe;PE;Vila da Inabi;Rua Doutor Bezerra de Menezes
+54766-547;Camaragibe;PE;Alto Santo Antônio;Rua Maria das Dores da Silva - de 274/27
+54783-547;Camaragibe;PE;Aldeia dos Camarás;2ª Travessa Cristine Albert
+55010-550;Caruaru;PE;Divinópolis;Praça José Lindú
+55021-550;Caruaru;PE;Serras do Vale;Rua Booganvilles (Privê Morada Nobre)
+55034-550;Caruaru;PE;Caiuca;Travessa Pedro Américo
+55152-551;Belo Jardim;PE;Santo Antônio;Rua Luís Hermínio da Silva
+55192-551;Santa Cruz do Capibaribe;PE;Centro;Rua Beira Rio
+55602-556;Vitória de Santo Antão;PE;Mangueira;Travessa Vicente de Holanda
+55614-556;Vitória de Santo Antão;PE;Mário Bezerra;Rua São Bartolomeu
+56250-562;Trindade;PE;Povoado Fazenda Espirito Santo;Sítio Mangueira, s/n
+56332-563;Petrolina;PE;Jatobá;Rua Cecília Barros Tupiná (Lot Rio Jordã
+56512-565;Arcoverde;PE;São Cristóvão;Rua Magalhães Porto
+56912-569;Serra Talhada;PE;Nossa Senhora da Conceição;Rua Francisco Olavo de Andrada
+57018-570;Maceió;AL;Chã de Bebedouro;2ª Travessa dos Prazeres
+57039-570;Maceió;AL;Ipioca;Avenida Professor Jaime de Altavilla (Co
+57070-570;Maceió;AL;Fernão Velho;Rua do Campo 2667
+57313-573;Arapiraca;AL;Brasília;Rua Maria Júlia Ferreira Alburquerque
+57608-576;Palmeira dos Índios;AL;Palmeira de Fora;Rua Manoel Timóteo
+58027-580;João Pessoa;PB;Alto do Céu;Rua Maria José
+58041-580;João Pessoa;PB;Expedicionários;Rua Marechal Esperidião Rosas
+58085-580;João Pessoa;PB;Cruz das Armas;Rua Enfermeira Maria Germana Bezerra
+58106-581;Cabedelo;PB;Portal do Poço;Rua Agente Fiscal Pedro Menezes Filho
+58308-583;Bayeux;PB;Jardim Aeroporto;Rua Brigadeiro Andrade Neves
+58406-584;Campina Grande;PB;Castelo Branco;Rua Manoel David de Arruda
+58432-584;Campina Grande;PB;Dinamérica;Rua Engenheiro Lourival Andrade
+58703-587;Patos;PB;Morada do Sol;Rua Severina Etelvina de Pontes
+58804-588;Sousa;PB;Maria Rachel;Rua Azarias Sobreira de Sousa
+59020-590;Natal;RN;Petrópolis;Avenida Hermes da Fonseca - até 600 - la
+59042-590;Natal;RN;Nordeste;Rua Jandaira
+59066-590;Natal;RN;Candelária;Rua Camile Alves
+59094-590;Natal;RN;Ponta Negra;Rua Praia de Tambaú
+59115-591;Natal;RN;Nossa Senhora da Apresentação;Rua Alvorada do Norte
+59127-591;Natal;RN;Potengi;Rua Planalto da Borborema
+59150-591;Parnamirim;RN;Nova Parnamirim;Rua dos Juritis
+59161-591;Parnamirim;RN;Cotovelo (Distrito Litoral);Avenida Praia de Cotovelo
+59607-596;Mossoró;RN;Aeroporto;Rua Professora Rosa Rodrigues Freire
+59619-596;Mossoró;RN;Santo Antônio;Rua Francisco Rodrigues do Monte
+59631-596;Mossoró;RN;Alto de São Manoel;Rua Antônio Edilberto Matoso
+60015-600;Fortaleza;CE;Benfica;Rua Luís de Miranda - lado ímpar
+60160-601;Fortaleza;CE;Meireles;Rua Deputado Moreira da Rocha
+60190-601;Fortaleza;CE;Cidade 2000;Alameda Eliane Lúcia
+60332-603;Fortaleza;CE;Barra do Ceará;Rua Paz e Prosperidade
+60347-603;Fortaleza;CE;Vila Velha;Vila Ubatã
+60410-604;Fortaleza;CE;Parreão;Rua Engenheiro Edmundo Almeida Filho - a
+60441-604;Fortaleza;CE;Bela Vista;Vila Santa Lúcia
+60527-605;Fortaleza;CE;Autran Nunes;Rua Padre Perdigão Sampaio - de 1124/112
+60543-605;Fortaleza;CE;Bom Jardim;Rua Oscar Franca - de 1046/1047 a 2004/2
+60731-607;Fortaleza;CE;Canindezinho;Travessa Benvindo Aguiar
+60745-607;Fortaleza;CE;Parque Dois Irmãos;Rua Pinto Martins Júnior
+60764-607;Fortaleza;CE;Novo Mondubim;Rua Waldir Diogo
+60820-608;Fortaleza;CE;Jardim das Oliveiras;Largo 6 (Cj Gov Tasso Jereissati)
+60835-608;Fortaleza;CE;Sabiaguaba;Rua Bela Rosa
+61604-616;Caucaia;CE;Conjunto Metropolitano;Rua Antônio Moreira Sena
+61627-616;Caucaia;CE;Iparana;Avenida José de Alencar
+61661-616;Caucaia;CE;Granja Lisboa;Rua Oscar Araripe
+61902-619;Maracanaú;CE;Coqueiral;Travessa Antônio de Alencar
+61930-619;Maracanaú;CE;Cidade Nova;Rua 4 (Cj Paraiso)
+62010-620;Sobral;CE;Centro;Rua Randal Pompeu de Saboya Magalhães
+62051-620;Sobral;CE;Cidade Gerardo Cristino de Menezes;Avenida Monsenhor José Aloísio Pinto
+62880-628;Horizonte;CE;Centro;Rua José Peixoto Lins
+63010-630;Juazeiro do Norte;CE;Centro;Rua Interventor Francisco Erivano Cruz, 
+63038-630;Juazeiro do Norte;CE;Monsenhor Francisco Murilo de Sá Barreto;Rua Maria Herbenia Ferreira
+63105-631;Crato;CE;Pimenta;Rua Cícero Araripe
+63260-632;Brejo Santo;CE;Sem Bairro;Sem Logradouro
+63514-635;José de Alencar (Iguatu);CE;Central;Rua Francisco Holanda Montenegro, s/n
+63908-639;Quixadá;CE;Alto São Francisco;Rua 03 (Lot Ipiranga Ville)
+64028-640;Teresina;PI;Santa Cruz;Rua Aveiro
+64052-640;Teresina;PI;São Cristóvão;Avenida Presidente Kennedy, 1101
+64067-640;Teresina;PI;Tabajaras;Rua Rádio (Lot Tabajara)
+64201-642;Parnaíba;PI;Santa Isabel;Rua Nossa Senhora de Fátima
+64213-642;Parnaíba;PI;Primavera;Quadra B1 (Cj Caminho Rosápolis)
+64785-647;Dirceu Arcoverde;PI;Centro;Praça Antonio Amancio Ribeiro, s/n
+65036-650;São Luís;MA;João Paulo;Travessa Santa Amélia
+65095-650;São Luís;MA;Pedrinhas;Avenida Engenheiro Emiliano Macieira - d
+65706-657;Olho D'Água das Cunhãs;MA;Centro;Rua Antônio Rodrigues, 34
+66026-660;Belém;PA;Jurunas;Vila Mercedes
+66055-660;Belém;PA;Umarizal;Travessa Almirante Wandenkolk
+66077-660;Belém;PA;Terra Firme;Vila Bom Sossego
+66095-660;Belém;PA;Marco;Passagem Mardok
+66615-666;Belém;PA;Marambaia;Vila Bahia
+66635-666;Belém;PA;Parque Verde;Alameda Liberdade
+66670-666;Belém;PA;Coqueiro;Rua Nova (Da Psg Tupy)
+66845-668;Belém;PA;Brasília (Outeiro);Rua das Violetas
+67015-670;Ananindeua;PA;Coqueiro;Quadra Dez (Cj Abelardo Conduru)
+67100-671;Ananindeua;PA;Marituba;Passagem Natal
+67120-671;Ananindeua;PA;Jibóia Branca;Quadra 07 (Deus Proverá)
+67140-671;Ananindeua;PA;Cidade Nova;Travessa We-77 (Cj Cidade Nova VII)
+68015-680;Santarém;PA;Maicá;Rua Arapema
+68041-680;Santarém;PA;Vitória Régia;Rua Juscelino Kubitschek
+68455-684;Tucuruí;PA;Vila Permanente;Bloco J
+68502-685;Marabá;PA;Amapá;Travessa Santa Teresinha
+68513-685;Marabá;PA;Loteamento Novo Progresso;Rua Dezessete
+68630-686;Paragominas;PA;Nagibão;Travessa Primus
+68908-689;Macapá;AP;Julião Ramos;Rua Odilardo Silva - até 1027/1028
+69006-690;Manaus;AM;Gilberto Mestrinho;Beco do Anil
+69060-690;Manaus;AM;Aleixo;Rua Nazira Daou
+69101-691;Itacoatiara;AM;Jardim Florestal;Rua Inamuí
+69303-693;Boa Vista;RR;São Vicente;Rua Professor Diomedes Souto Maior - de 
+69400-694;Manacapuru;AM;São Francisco;Rua José Bonifácio
+69900-699;Rio Branco;AC;Bosque;Avenida Nações Unidas, 1368
+70236-702;Brasília;DF;Asa Sul;SQS 402 Bloco Q
+70350-703;Brasília;DF;Asa Sul;CRS 506
+70640-706;Brasília;DF;Cruzeiro Velho;Comércio Local Bloco C
+70673-706;Brasília;DF;Setor Sudoeste;CLSW 301 Bloco A
+70723-707;Brasília;DF;Asa Norte;SQN 302 Bloco H
+70770-707;Brasília;DF;Asa Norte;SCRN 716
+70875-708;Brasília;DF;Asa Norte;SQN 216 Bloco F
+71060-710;Brasília;DF;Guará II;QI 25 Lote 04
+71255-712;Brasília;DF;Setor Oeste (Vila Estrutural);Quadra 1 Conjunto 1
+71539-715;Brasília;DF;Setor de Mansões do Lago Norte;Condomínio Privê II Quadra 4 Conjunto M
+71587-715;Brasília;DF;Paranoá Parque (Paranoá);Quadra 3 Conjunto 1 Lote 6 Bloco K
+71635-716;Brasília;DF;Setor de Habitações Individuais Sul;SHIS QI 15 Bloco E
+71730-717;Brasília;DF;Metropolitana (Núcleo Bandeirante);Rua 7
+71880-718;Brasília;DF;Riacho Fundo II;QN 5B Área Especial s/n
+71978-719;Brasília;DF;Areal (Águas Claras);QS 10 Área Especial 1
+72005-720;Brasília;DF;Setor Habitacional Vicente Pires;Rua 1 Chácara 13B
+72110-721;Brasília;DF;Taguatinga Norte (Taguatinga);QNA 55
+72153-721;Brasília;DF;Taguatinga Norte (Taguatinga);Setor SIG Conjunto F
+72220-722;Brasília;DF;Ceilândia Sul (Ceilândia);QNN 38 Área Especial 1
+72238-722;Brasília;DF;Setor Habitacional Pôr do Sol (Ceilândia;SHPS Quadra 501 Conjunto I
+72260-722;Brasília;DF;Ceilândia Norte (Ceilândia);QNO 17 Conjunto B
+72322-723;Brasília;DF;Samambaia Norte (Samambaia);QS 614 Conjunto C Comércio
+72341-723;Brasília;DF;Samambaia Norte (Samambaia);QN 207 Conjunto 1
+72428-724;Brasília;DF;Ponte Alta Norte (Gama);Casa Grande Módulo 10 MA - 33
+72507-725;Brasília;DF;Santa Maria;QR 307 Conjunto C
+72549-725;Brasília;DF;Santa Maria;Quadra AC 419 Conjunto F
+72610-726;Brasília;DF;Recanto das Emas;ADE 200 Conjunto 3
+72660-726;Brasília;DF;Recanto das Emas;Quadra 509 Conjunto 9
+72800-728;Luziânia;GO;Centro;Viela Alberto de Paula
+72820-728;Luziânia;GO;Parque Estrela Dalva II;Rua Machado de Assis
+72834-728;Luziânia;GO;Luzília Parque;Quadra 38
+72887-728;Cidade Ocidental;GO;Parque Nova Friburgo B;Quadra 44
+73031-730;Brasília;DF;Sobradinho;Quadra 3 Comércio Local 20
+73090-730;Brasília;DF;Setor Habitacional Contagem (Sobradinho);Rodovia DF-150 Km 3
+73358-733;Brasília;DF;Setor Residencial Leste (Planaltina);Quadra 22 Conjunto I
+73402-734;Brasília;DF;Recanto do Sossego (Planaltina);Módulo B
+73808-738;Formosa;GO;Setor Bela Vista;Rua 14
+74150-741;Goiânia;GO;Setor Marista;Rua 36
+74333-743;Goiânia;GO;Jardim Planalto;Avenida Marconi
+74356-743;Goiânia;GO;Residencial Campos Dourados;Rua Penedo
+74370-743;Goiânia;GO;Residencial Forteville Extensão;Rua Reni Siade
+74394-743;Goiânia;GO;Jardim Gardênia;Rua JG16
+74455-744;Goiânia;GO;São Francisco;Rua Carlos Gomes
+74483-744;Goiânia;GO;Parque João Braz - Cidade Industrial;Rua Euclides da Cunha
+74553-745;Goiânia;GO;Vila Jacaré;Rua Santa Helena
+74594-745;Goiânia;GO;Residencial Barravento;Rua Oscar Sabino Freitas
+74670-746;Goiânia;GO;Santa Genoveva;Rua do Asbesto
+74691-746;Goiânia;GO;Sítios de Recreio Mansões do Campus;Rua Barão de Monte Alegre
+74766-747;Goiânia;GO;Loteamento Grande Retiro;Rua GR11
+74825-748;Goiânia;GO;Setor Pedro Ludovico;Rua 1064
+74884-748;Goiânia;GO;Loteamento Portal do Sol II;Rua SB 42
+74913-749;Aparecida de Goiânia;GO;Parque Primavera;Rua dos Coqueiros 10
+74924-749;Aparecida de Goiânia;GO;Vale do Sol;Rua 15
+74942-749;Aparecida de Goiânia;GO;Jardim Buriti Sereno;Rua Porto Alegre
+74956-749;Aparecida de Goiânia;GO;Vila Oliveira;Rua Caolenita
+74982-749;Aparecida de Goiânia;GO;Jardim Rio Grande;Rua Caiapó
+74993-749;Aparecida de Goiânia;GO;Setor Buenos Aires - 1ª Etapa;Avenida Corrientes
+75064-750;Anápolis;GO;Vila Jaiara;Rua Rio Verde
+75084-750;Anápolis;GO;São Carlos;Avenida Perimetral
+75101-751;Anápolis;GO;Residencial Ipanema;Rua I 16
+75114-751;Anápolis;GO;JK Nova Capital;Avenida Dahas Nicolau Bittar
+75134-751;Anápolis;GO;Paraíso;Avenida Noroeste
+75261-752;Senador Canedo;GO;Jardim Todos os Santos III;Rua Firmino Rodrigues do Nascimento
+75393-753;Trindade;GO;Setor Laguna Parque;Rua 1007
+75524-755;Itumbiara;GO;Condomínio Horizontal Paraíso;Rua das Gardênias
+75711-757;Catalão;GO;Loteamento de Interesse Social Jardim da;Rua 01
+76160-761;Sanclerlândia;GO;Sem Bairro;Sem Logradouro
+76804-768;Porto Velho;RO;Santa Bárbara;Rua Marechal Deodoro - de 1600/1601 a 17
+76813-768;Porto Velho;RO;Cascalheira;Rua Cadência
+76825-768;Porto Velho;RO;Esperança da Comunidade;Rua José Vieira Caúla - de 7121/7122 a 7
+76873-768;Ariquemes;RO;Setor 04;Alameda Girassol - de 2238/2239 a 2535/2
+76908-769;Ji-Paraná;RO;São Francisco;Rua Presbítero Honorato Pereira - de 252
+76960-769;Cacoal;RO;Vista Alegre;Avenida Primavera - de 2435 a 2675 - lad
+76982-769;Vilhena;RO;Bela Vista;Avenida Pedro Bezerra da Silva - de 5000
+77001-770;Palmas;TO;Plano Diretor Norte;Quadra ALC NO 33 Área HM 11
+77024-770;Palmas;TO;Plano Diretor Sul;1104 Sul Alameda 14
+77423-774;Gurupi;TO;Waldir Lins II;Rua A
+77808-778;Araguaína;TO;Vila Santa Luzia;Rua 6
+77920-779;Itaguatins;TO;Setor Central;Rua Coronel Augusto Cesar Bastos, 1074
+78040-780;Cuiabá;MT;Ribeirão da Ponte;Rua Governador Fernando Correa
+78065-780;Cuiabá;MT;Grande Terceiro;Rua Rio Jaguaribe
+78088-780;Cuiabá;MT;Tijucal;Rua Trezentos e Dezoito
+78118-781;Várzea Grande;MT;Cristo Rei;Rua das Japuíras (Lot H P Arruda)
+78132-781;Várzea Grande;MT;Primavera;Rua Emanoel Luis Nunes (Lot Sayonara)
+78175-781;Poconé;MT;Sem Bairro;Sem Logradouro
+78575-785;Juara;MT;Centro;Praça dos Colonizadores, 44 Setor E
+78725-787;Rondonópolis;MT;Jardim Dom Bosco;Rua Quatro
+79002-790;Campo Grande;MS;Jardim dos Estados;Rua Euclides da Cunha - até 227/228
+79013-790;Campo Grande;MS;Morada Verde;Rua Andorinha
+79032-790;Campo Grande;MS;Vila do Polonês;Rua Izalda Ourique de Oliveira
+79042-790;Campo Grande;MS;Loteamento Cristo Redentor;Rua Luiz Hilário Campos Leite
+79062-790;Campo Grande;MS;Jardim Itamaracá;Avenida Guaicurus - lado par
+79083-790;Campo Grande;MS;Jardim Aero Rancho;Travessa Andraus
+79108-791;Campo Grande;MS;Núcleo Industrial;Rua Principal 1
+79303-793;Corumbá;MS;Centro;Rua General Rondon - até 481/0482
+79604-796;Três Lagoas;MS;Jardim Cangalha;Rua Capitão Bernardo Antônio Leite - de 
+79642-796;Três Lagoas;MS;Loteamento Montanini;Alameda RM 8
+79823-798;Dourados;MS;Jardim Universitário;Rua Dona Lola
+79841-798;Dourados;MS;Parque das Nações;Rua Chile
+80231-802;Curitiba;PR;Rebouças;Rua João Negrão, 1251
+80740-807;Curitiba;PR;Seminário;Rua Álvaro Alvim
+81220-812;Curitiba;PR;Campo Comprido;Rua Paulo Bertassoni
+81330-813;Curitiba;PR;Fazendinha;Rua Fidelino Figueiredo
+81490-814;Curitiba;PR;Campo de Santana;Rua Marcos Bertoldi
+81710-817;Curitiba;PR;Xaxim;Rua Professor Leonel Moro
+81900-819;Curitiba;PR;Sítio Cercado;Rua Hayde Pacheco Faria
+82025-820;Curitiba;PR;Cascatinha;Rua Professor Kydd James Galliano
+82320-823;Curitiba;PR;Butiatuvinha;Rua Antônio Strapasson
+82700-827;Curitiba;PR;Barreirinha;Rua Shakespeare
+82990-829;Curitiba;PR;Cajuru;Rua Francisco Lopes de Oliveira
+83050-830;São José dos Pinhais;PR;Parque da Fonte;Rua Dom Pedro II
+83203-832;Paranaguá;PR;Oceania;Rua Desembargador Ermelino de Leão
+83221-832;Paranaguá;PR;Serraria do Rocha;Rua Soldado Eulálio Cordeiro Bahia
+83314-833;Piraquara;PR;Planta Pontoni Filho;Rua Jani Rengel
+83402-834;Colombo;PR;Roça Grande;Rua Vicente Luíz Lemes Filho
+83412-834;Colombo;PR;Canguiri;Travessa Presidente Arthur Bernardes
+83507-835;Almirante Tamandaré;PR;Lamenha Grande;Rua Hiroshi Takeda
+83705-837;Araucária;PR;Estação;Rua Luiz Armando Ohpis
+83823-838;Fazenda Rio Grande;PR;Nações;Rua Groelândia - de 951/952 a 1340/1341
+84016-840;Ponta Grossa;PR;Jardim Carvalho;Rua Augusto Ferreira
+84033-840;Ponta Grossa;PR;Cará-cará;Rua Maria Contin Riesemberg
+84053-840;Ponta Grossa;PR;Nova Rússia;Rua Fontoino Xavier Domingos de Magalhãe
+84073-840;Ponta Grossa;PR;Boa Vista;Rua Visconde de Jaguari
+84264-842;Telêmaco Borba;PR;Jardim São Félix;Rua Guarapuava
+84601-846;União da Vitória;PR;Bela Vista;Rua Foz do Iguaçu
+85025-850;Guarapuava;PR;Vila Bela;Rua Salamandra
+85070-850;Guarapuava;PR;Santana;Rua Sebastião Pedroso
+85504-855;Pato Branco;PR;Cadorin;Rua Hélio Gomes da Silva
+85803-858;Cascavel;PR;Santa Felicidade;Rua Armando Busato
+85870-858;Foz do Iguaçu;PR;Vila C;Rua J
+85909-859;Toledo;PR;Vila Pioneiro;Rua Vinte e Um de Abril
+86027-860;Londrina;PR;Carlota;Rua Santa Cristina
+86041-860;Londrina;PR;Jardim Neman Sahyun;Rua Wagner Olinto Magalhães
+86055-860;Londrina;PR;Vivendas do Arvoredo;Alameda Margarida Nagib Ozi Badin (Alpha
+86073-860;Londrina;PR;Nova Olinda;Rua José Geraldo Canezin
+86186-861;Cambé;PR;Jardim Montecatini;Rua Modena
+86602-866;Rolândia;PR;Jardim Rosângelo;Rua José Coloni
+86716-867;Arapongas;PR;Jardim Casa Branca;Avenida Capitão Castanho - de 501/502 ao
+87020-870;Maringá;PR;Zona 07;Travessa Jorge Amado
+87043-870;Maringá;PR;Gleba Patrimônio Morangueiro;Rua Almerinda Silveira Coelho
+87060-870;Maringá;PR;Jardim Iguaçu;Rua Açucena
+87083-870;Maringá;PR;Jardim Paraizo;Rua Ametista
+87303-873;Campo Mourão;PR;Jardim John Kennedy;Avenida Jorge Walter - de 2321 a 2559 - 
+87703-877;Paranavaí;PR;Jardim Oásis;Rua José Utrila Garcia - até 639/640
+88015-880;Florianópolis;SC;Centro;Rua Frei Evaristo
+88040-880;Florianópolis;SC;Trindade;Servidão Leandra Izaltina Coelho
+88085-880;Florianópolis;SC;Itaguaçu;Rua Luiz Gonzaga Lamego
+88107-881;São José;SC;Forquilhas;Rua Narciso
+88119-881;São José;SC;Potecas;Rua Luiz Paulo Vieira
+88168-881;Biguaçu;SC;Cachoeiras (Guaporanga);Rua José Manoel
+88330-883;Balneário Camboriú;SC;Centro;Rua 770
+88345-883;Camboriú;SC;Areias;Rua Tóquio (Lot. Dona Clara)
+88372-883;Navegantes;SC;Gravatá;Rua Júlia Cardoso do Nascimento
+88509-885;Lages;SC;São Cristóvão;Rua José Domingues de Arruda
+88526-885;Lages;SC;Popular;Servidão Vilmar Francisco Pessoa
+88905-889;Araranguá;SC;Urussanguinha;Rua Pedro Inácio Peres
+89023-890;Blumenau;SC;Valparaiso;Rua Luiz Delfino
+89035-890;Blumenau;SC;Vila Nova;Rua José Adão Berns
+89051-890;Blumenau;SC;Nova Esperança;Rua Luiz Alipídio da Paz
+89066-890;Blumenau;SC;Itoupavazinha;Rua Virgílio Biz
+89082-890;Indaial;SC;Nações;Rua Índia
+89230-892;Joinville;SC;Adhemar Garcia;Rua Jarivatuba - de 1252 ao fim - lado p
+89290-892;São Bento do Sul;SC;25 de Julho;Rua Franz Goertler
+89507-895;Caçador;SC;Nossa Senhora Salete;Rua Santa Rita de Cássia
+89705-897;Concórdia;SC;Natureza;Travessa das Lagoas
+89810-898;Chapecó;SC;Trevo;Rua Apolinário Resende
+90030-900;Porto Alegre;RS;Centro Histórico;Rua Chaves Barcelos
+90440-904;Porto Alegre;RS;Rio Branco;Praça Arlindo Pasqualini
+90840-908;Porto Alegre;RS;Teresópolis;Rua Helena Pettenuzzi Santiago
+91130-911;Porto Alegre;RS;Sarandi;Rua Engenheiro Frederico Dahne
+91230-912;Porto Alegre;RS;Passo das Pedras;Travessa Gabriela Mistral
+91350-913;Porto Alegre;RS;Passo da Areia;Avenida Grécia
+91520-915;Porto Alegre;RS;Vila São José;Rua Padre Cornélio
+91740-917;Porto Alegre;RS;Cavalhada;Beco Dois (Pc Adm Belmiro Siqueira)
+91780-917;Porto Alegre;RS;Ponta Grossa;Rua Anelise Raabe
+91792-917;Porto Alegre;RS;Restinga;Acesso F (SQ 2 - 1ª Unidade Vicinal)
+92035-920;Canoas;RS;Olaria;Rua Wilson Brum da Silva (Lot Recanto Ga
+92420-924;Canoas;RS;São Luis;Rua Teófilo Otoni
+93032-930;São Leopoldo;RS;Jardim América;Rua Fernando Barreiro
+93115-931;São Leopoldo;RS;Santos Dumont;Rua Natal
+93218-932;Sapucaia do Sul;RS;São José;Rua Timbaúva (Lot Jd Anchieta)
+93270-932;Esteio;RS;Novo Esteio;Rua Zeferino Brasil
+93347-933;Novo Hamburgo;RS;Boa Saúde;Rua Orphila Pacheco
+93530-935;Novo Hamburgo;RS;Diehl;Rua Arthur Momberger - de 801/802 ao fim
+93609-936;Estância Velha;RS;Sol Nascente;Rua Coimbra
+93806-938;Sapiranga;RS;São Luiz;Rua São Luiz Gonzaga - de 201/202 ao fim
+94035-940;Gravataí;RS;Centro;Rua Heitor de Jesus
+94130-941;Gravataí;RS;Parque dos Eucalíptos;Rua Marechal Floriano
+94410-944;Viamão;RS;Centro;Rua Capitão Emílio Nunes
+94460-944;Viamão;RS;São Tomé;Rua Uberlândia
+94810-948;Alvorada;RS;Bela Vista;Rua Leonardo da Vinci (Prq Água Viva)
+94858-948;Alvorada;RS;Jardim Algarve;Rua Cento e Dezoito
+94967-949;Cachoeirinha;RS;Nova Esperança;Rua Sabiá-uná
+95042-950;Caxias do Sul;RS;São José;Rua Zayro Lahm dos Reis
+95059-950;Caxias do Sul;RS;Serrano;Rua Otávio Bernardes
+95095-950;Caxias do Sul;RS;Esplanada;Rua Didi Rodolfo Belló
+95112-951;Caxias do Sul;RS;Cidade Nova;Rua Gaston Luis Benetti (Lot Pq Sanvitto
+95181-951;Farroupilha;RS;Monte Verde;Rua Thomas Peroni
+95623-956;Pega Fogo (Taquara);RS;Sem Bairro;Sem Logradouro
+96010-960;Pelotas;RS;Centro;Travessa Um (da Rua Alberto Rosa)
+96072-960;Pelotas;RS;Três Vendas;Rua José Francisco Patella
+96201-962;Rio Grande;RS;Parque Residencial Salgado Filho;Rua Revocata de Mello
+96215-962;Rio Grande;RS;Parque Marinha;Rua do Atol
+96418-964;Bagé;RS;Prado Velho;Rua João de Barro (Vl Sta Terezinha)
+96640-966;Rio Pardo;RS;Sem Bairro;Sem Logradouro
+96840-968;Santa Cruz do Sul;RS;Ana Nery;Rua Felipe Jacobus Filho - de 571 a 899 
+97037-970;Santa Maria;RS;Nova Santa Marta;Rua Principal Dois (Por Sol)
+97105-971;Santa Maria;RS;Camobi;Rua José Manhago
+97507-975;Uruguaiana;RS;Rui Ramos;Quadra E Dois
+97546-975;Alegrete;RS;Promorar;Rua Gaudêncio Mota
+97577-975;Santana do Livramento;RS;Argiles;Rua Fidias Rodrigues
+98050-980;Cruz Alta;RS;Santo Antônio;Rua Venezuela
+98789-987;Santa Rosa;RS;Cruzeiro;Rua São Francisco
+98804-988;Santo Ângelo;RS;Haller;Rua Ezaltino Pires de Arruda
+99040-990;Passo Fundo;RS;Vera Cruz;Avenida Rio Grande
+99340-993;Lagoão;RS;Centro;Avenida Tomas Costa, 580
